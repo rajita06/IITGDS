@@ -1,5 +1,5 @@
 # IITGDS
 streamlit
-scikit-learn==1.2.2
+scikit-learn
 numpy
 pandas
